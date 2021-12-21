@@ -31,7 +31,7 @@ During my learnings I have been often looking for the next "cheat sheet" to help
 
 
 
-##SQL Cheat Sheets
+## SQL Cheat Sheets
 [MySql cheat sheet- 19 pages, its beautiful!!](https://media-exp1.licdn.com/dms/document/C4E1FAQH3GLr2POMa6g/feedshare-document-pdf-analyzed/0/1637855587078?e=1638320400&v=beta&t=cWKeHJl4fIf8toiS2FOfI7NNIbjxjRGDIAqqO51iHj0)
 
 [Advanced SQL cheat sheet](https://media-exp1.licdn.com/dms/document/C4E1FAQH45tFgP1Oryw/feedshare-document-pdf-analyzed/0/1637387479640?e=1640145600&v=beta&t=1-bIDfZgd4TW7TDp6pDFqnuMGJZ-XO8L0GxPurtL4So)
