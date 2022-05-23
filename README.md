@@ -46,10 +46,10 @@ During my learnings I have been often looking for the next "cheat sheet" to help
 
 ## Statistics/probability cheat sheets
 
-[Basic statistical concepts cheatsheet-8 pager- awesome refresher if youve been out of the game a while (https://media-exp1.licdn.com/dms/document/C561FAQH10dyAuOO8Mg/feedshare-document-pdf-analyzed/0/1644044725943?e=1654128000&v=beta&t=UhRydaU0B2lbQ8sScYDnxJM4Ygkc8LtkWr7hKFSw88I)
+[Basic statistical concepts cheatsheet-8 pager awesome refresher if youve been out of the game a while] (https://media-exp1.licdn.com/dms/document/C561FAQH10dyAuOO8Mg/feedshare-document-pdf-analyzed/0/1644044725943?e=1654128000&v=beta&t=UhRydaU0B2lbQ8sScYDnxJM4Ygkc8LtkWr7hKFSw88I)
 
-[Amazingly detailed datscience cheat sheet -1.0 -11 pages, sooo beautiful!!] (file:///C:/Users/SXB304/Downloads/data-science-cheatsheet.pdf)
-[Amazingly detailed datatscience cheatsheet- 2.0 -5 pages, its very beautiful!!!] (file:///C:/Users/SXB304/Downloads/Data_Science_Cheatsheet.pdf)
+[Amazingly detailed datscience cheat sheet -1.0 -11 pages sooo beautiful!!] (file:///C:/Users/SXB304/Downloads/data-science-cheatsheet.pdf)
+[Amazingly detailed datatscience cheatsheet- 2.0 -5 pages its very beautiful!!!] (file:///C:/Users/SXB304/Downloads/Data_Science_Cheatsheet.pdf)
 
 [Data science cheat sheet- 10 pages](https://media-exp1.licdn.com/dms/document/C561FAQEhUN_hHvOAkw/feedshare-document-pdf-analyzed/0/1635329848006?e=1640120400&v=beta&t=HVpx6YABVscNbgbOc9s_m5tKNe8ebAANCZHGjiQ6Pg8)
 [Machine learning cheatsheet-5 pages](https://media-exp1.licdn.com/dms/document/C561FAQH4W2ffiIn1_g/feedshare-document-pdf-analyzed/0/1649422442389?e=1654128000&v=beta&t=2BzFdWa4eFZ7iA7Hl3wVgUYEOxqrM_6e0v90O_Fb3G4)
