@@ -5,10 +5,6 @@ During my learnings I have been often looking for the next "cheat sheet" to help
 ## Excel Cheat Sheets
 [Excel cheat sheet, 7 pager](https://media-exp1.licdn.com/dms/document/C4E1FAQFobQ2g6DZrWw/feedshare-document-pdf-analyzed/0/1637763151082?e=1637866800&v=beta&t=d0TQyFTEqT4lln0aoH9TFiXOP2Firy1MAzRsmVyEvYs)
 
-
-
-
-
 ## Python Cheat Sheets
 
 [Python for data science cheat sheet 15 pages](https://media-exp1.licdn.com/dms/document/C561FAQHQTNWJNbQUoA/feedshare-document-pdf-analyzed/0/1631618775277?e=1637272800&v=beta&t=qMq9cF3lghx4kcMoSdAU5TfuPyZ0pZECfqPltReuDmQ) with all relevant basics and pandas, matplotlib, bokeh,seaborn, jupyter notebooks, linear algebra, numpy, scikitlearn, keras its beautiful!
@@ -24,7 +20,6 @@ During my learnings I have been often looking for the next "cheat sheet" to help
 
 [Python Data types cheat sheet](https://www.linkedin.com/posts/data-science-dojo_python-bigdata-datascience-activity-6873048535911174144-lC1n)
 
-[Python Regex cheatsheet- 1 pager](file:///C:/Users/SXB304/Downloads/Data_Science_Cheatsheet.pdf)
 
 ## R Cheat Sheets
 [Epic R cheat sheet](https://media-exp1.licdn.com/dms/document/C4E1FAQEGAZ6Z_5APbQ/feedshare-document-pdf-analyzed/0/1637132797321?e=1637272800&v=beta&t=T1u3jrAGmKXGEGOJrQuLqavIIeirPgsxuzizukZt_uI) super comprehensive 38 pager from base R to cartography maps,regex, machine learning, deep learning etc. Its beautiful!!
@@ -48,9 +43,11 @@ During my learnings I have been often looking for the next "cheat sheet" to help
 
 [Basic statistical concepts cheatsheet-8 pager awesome refresher if youve been out of the game a while](https://media-exp1.licdn.com/dms/document/C561FAQH10dyAuOO8Mg/feedshare-document-pdf-analyzed/0/1644044725943?e=1654128000&v=beta&t=UhRydaU0B2lbQ8sScYDnxJM4Ygkc8LtkWr7hKFSw88I)
 
-[Amazingly detailed datscience cheat sheet -1.0 -11 pages sooo beautiful!!](file:///C:/Users/SXB304/Downloads/data-science-cheatsheet.pdf)
+[Amazingly detailed datascience cheat sheet 1.0 -11 pages sooo beautiful!!]([file:///C:/Users/SXB304/Downloads/data-science-cheatsheet.pdf](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf)![image](https://user-images.githubusercontent.com/95719026/169738581-6ce640d6-f920-45bd-8b05-fd0a05a2ec12.png)
+)
 
-[Amazingly detailed datatscience cheatsheet- 2.0 -5 pages its very beautiful!!!](file:///C:/Users/SXB304/Downloads/Data_Science_Cheatsheet.pdf)
+[Amazingly detailed datatscience cheatsheet 2.0 -5 pages its very beautiful!!!]([file:///C:/Users/SXB304/Downloads/Data_Science_Cheatsheet.pdf](https://github.com/aaronwangy/Data-Science-Cheatsheet/blob/main/Data_Science_Cheatsheet.pdf)![image](https://user-images.githubusercontent.com/95719026/169738610-46a44461-2042-4b67-9a7b-d75f921b1a75.png)
+)
 
 [Data science cheat sheet- 10 pages](https://media-exp1.licdn.com/dms/document/C561FAQEhUN_hHvOAkw/feedshare-document-pdf-analyzed/0/1635329848006?e=1640120400&v=beta&t=HVpx6YABVscNbgbOc9s_m5tKNe8ebAANCZHGjiQ6Pg8)
 
