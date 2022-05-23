@@ -1,5 +1,5 @@
 # Cheat-sheets
-During my learnings I have been often looking for the next "cheat sheet" to help me find quick key board short cuts, common code blocks for different libraries or a bit of study material to help me along my journey. I thought someone else might also find  then useful.
+During my learnings I have been often looking for the next "cheat sheet" to help me find quick key board short cuts, common code blocks for different libraries or a bit of study material to help me along my journey. I thought someone else might also find  them useful.
 
 
 ## Excel Cheat Sheets
