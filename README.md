@@ -14,8 +14,6 @@ During my learnings I have been often looking for the next "cheat sheet" to help
 
 [Datacamp matplotlib cheat sheet 1 pager](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python)
 
-[10 minutes to pandas- short intro to pandas for newer users](https://media-exp1.licdn.com/dms/document/C4E1FAQFnNAia33tNGQ/feedshare-document-pdf-analyzed/0/1637397014612?e=1638320400&v=beta&t=9DRmfaW0hrD_Ly7h4GzUMAUZsXH1OmZtstVnLXtSXqM)
-
 [Comprehensive python cheat sheet- 51 pager](https://media-exp1.licdn.com/dms/document/C4E1FAQHC5PsK7O4CXg/feedshare-document-pdf-analyzed/0/1634270267443?e=1637272800&v=beta&t=svqvqyJ_07JR7w4icOPXkMTtRHHjh2jj_5cd8P_vBxQ)
 
 [Python Data types cheat sheet](https://www.linkedin.com/posts/data-science-dojo_python-bigdata-datascience-activity-6873048535911174144-lC1n)
