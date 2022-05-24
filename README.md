@@ -7,12 +7,12 @@ During my learnings I have been often looking for the next "cheat sheet" to help
 
 ## Python Cheat Sheets
 
-[Python for data science cheat sheet 15 pages](https://media-exp1.licdn.com/dms/document/C561FAQHQTNWJNbQUoA/feedshare-document-pdf-analyzed/0/1631618775277?e=1637272800&v=beta&t=qMq9cF3lghx4kcMoSdAU5TfuPyZ0pZECfqPltReuDmQ) with all relevant basics and pandas, matplotlib, bokeh,seaborn, jupyter notebooks, linear algebra, numpy, scikitlearn, keras its beautiful!
+[Python for data science cheat sheet 15 pages](https://www.linkedin.com/posts/mengyaowang11_cheat-sheet-collection-ugcPost-6843508796338388992-3_Jb/)) with all relevant basics and pandas, matplotlib, bokeh,seaborn, jupyter notebooks, linear algebra, numpy, scikitlearn, keras its beautiful!
 
-[General Python cheat sheet 9 pages](https://media-exp1.licdn.com/dms/document/C4E1FAQG9cBa_IM7k6A/feedshare-document-pdf-analyzed/0/1631421692591?e=1637272800&v=beta&t=slI_snpSZKqqjJ-2amRUm8XFTiC_H6heO9BiSEkz-1o) touches on Pandas, Numpy, SkLearn ,Matplotlib, Seaborn - Built on top of Matplotlib specifically used for statistical plotting ,BS4 - Beautiful soup, Selenium(browser automation), Scrapy(webscrapping)
+[General Python cheat sheet 9 pages](https://www.linkedin.com/posts/arjun-panwar_python-cheatsheet-activity-6842678553776070657-JKoo/) touches on Pandas, Numpy, SkLearn ,Matplotlib, Seaborn - Built on top of Matplotlib specifically used for statistical plotting ,BS4 - Beautiful soup, Selenium(browser automation), Scrapy(webscrapping)
 
 
-[Datacamp matplotlib cheat sheet 1 pager](http://datacamp-community-prod.s3.amazonaws.com/e1a8f39d-71ad-4d13-9a6b-618fe1b8c9e9)
+[Datacamp matplotlib cheat sheet 1 pager](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python)
 
 [10 minutes to pandas- short intro to pandas for newer users](https://media-exp1.licdn.com/dms/document/C4E1FAQFnNAia33tNGQ/feedshare-document-pdf-analyzed/0/1637397014612?e=1638320400&v=beta&t=9DRmfaW0hrD_Ly7h4GzUMAUZsXH1OmZtstVnLXtSXqM)
 
